@@ -5,8 +5,6 @@ This project is designed for learning purposes, focusing on networking, concurre
 
 ---
 
----
-
 ## Abstract
 
 In this project, implemented a custom key-value database. Such databases are crucial for efficiently storing and retrieving data using unique keys. This application operates entirely in memory for fast access, using the UDP protocol for communication between clients and the server.  
